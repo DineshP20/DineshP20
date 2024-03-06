@@ -19,6 +19,5 @@ I'm a BTech Computer Science and Engineering student at Narsimha Reddy Engineeri
 
 **Connect with me:**
 
-* LinkedIn: 
-* Portfolio:
+* LinkedIn: https://www.linkedin.com/in/dinesh-p-2b4752161/
 
