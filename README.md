@@ -8,7 +8,7 @@ I'm a BTech Computer Science and Engineering student at Narsimha Reddy Engineeri
 
 **Skills & Technologies:**
 
-* Programming Languages: Python, Java, JavaScript, C++
+* Programming Languages: Java, Python, JavaScript, C++
 * Frameworks: Django, Spring Boot, React
 * Databases: MySQL, MongoDB
 * Cloud Platforms: AWS, Google Cloud Platform
